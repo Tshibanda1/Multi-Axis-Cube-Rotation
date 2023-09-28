@@ -8,7 +8,11 @@ No external library was used in the process of creating the project just alot of
 For best experience copy and paste the code into VS code and run it on your machine.
 
 Some screenshots of the application are shown below:
+
+
 ![All](https://github.com/Tshibanda1/Smart-Irrigation-Mobile-App/assets/118852771/cff81ebd-2852-4876-97e1-73c415e06349)
+
 ![RotateX](https://github.com/Tshibanda1/Smart-Irrigation-Mobile-App/assets/118852771/0c81d2a5-5254-4702-aa5c-32971d9174e6)
+
 ![Webgl project](https://github.com/Tshibanda1/Smart-Irrigation-Mobile-App/assets/118852771/9799849a-caf3-4a41-8a06-41626b1aedc1)
 
