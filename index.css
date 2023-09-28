@@ -1,0 +1,19 @@
+
+button {
+background-color: rgb(99, 93, 93);
+color:rgb(3, 1, 1);
+font-size: 20x;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+width: 70px;
+height: 40px;
+border-radius: 5px;
+margin-top: 0px;
+margin: 1px;
+}
+title{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
