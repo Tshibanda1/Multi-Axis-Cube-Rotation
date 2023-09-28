@@ -9,12 +9,11 @@ For best experience copy and paste the code into VS code and run it on your mach
 
 Some screenshots of the application are shown below:
 
-
-![All](https://github.com/Tshibanda1/Smart-Irrigation-Mobile-App/assets/118852771/cff81ebd-2852-4876-97e1-73c415e06349)
-.
-
-![RotateX](https://github.com/Tshibanda1/Smart-Irrigation-Mobile-App/assets/118852771/0c81d2a5-5254-4702-aa5c-32971d9174e6)
+![all roatate](https://github.com/Tshibanda1/Multi-Axis-Cube-Rotation/assets/118852771/f316ab6f-1389-4d2d-ad20-5bec460285b0)
 .
 
 ![Webgl project](https://github.com/Tshibanda1/Smart-Irrigation-Mobile-App/assets/118852771/9799849a-caf3-4a41-8a06-41626b1aedc1)
+.
+![y Rotate](https://github.com/Tshibanda1/Multi-Axis-Cube-Rotation/assets/118852771/54782880-7851-434d-8d8b-6bf4d3ace1bb)
+
 
